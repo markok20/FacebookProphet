@@ -1,5 +1,6 @@
 # FacebookProphet
-Forecasting time series usign Facebook Prophet
+
+Forecasting time series using Facebook Prophet
 
 Nokian tuleva kurssikehitys: Kuinka tehdä täydellinen ennustusmalli Facebook Prophetilla?
 
