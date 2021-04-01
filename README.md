@@ -31,6 +31,6 @@ Visualisoidaan seuraavaksi päätöskurssikehitys. Viimeisen vuoden kehityksen o
 
 Rakennetaan seuraavaksi ennustusmalli. Käytämme mallissa ainoastaan päivämäärää ja päätöskurssia eli ds = päivämäärä ja y = päätöskurssi kunakin päivänä. En jaa dataa opetus- ja testidataan, vaan sovitan mallia koko dataan ja käsken ennustamaan tulevan kehityksen tämän pohjalta.
 
-Malli käyttää sovittamiseen toteutunutta kehitystä (mustat pisteet) ja ennustaa kehitystä luotettavuusrajoineen. Sadan päivän ennustuksen mukaan Nokian päätöskurssi on noin 4,3 USD heinäkuun alussa. Jos ennustevirheen haluaa laskea, se vaatii datan jakamisen opetus- ja testidataan, jolloin testivirhe voidaan laskea.
+Malli käyttää sovittamiseen toteutunutta kehitystä (mustat pisteet) ja ennustaa kehitystä luotettavuusrajoineen. Sadan päivän ennustuksen mukaan Nokian päätöskurssi on noin 4,3 USD heinäkuun alussa. 
 
 Kuvataan seuraavaksi trendi eli viikottainen, kausittainen, vuosittainen ja päivittäinen vaihtelu. Trendin perusteella nähdään, että osakekurssi yleensä nousee maksimitasolleen elokuun alussa ja keskiviikkoisin. Lisäksi nähdään kurssikehitys tulevaisuudessa luotettavuusrajoineen.
