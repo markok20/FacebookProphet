@@ -1,6 +1,6 @@
 # FacebookProphet
 
-Nokia's future course development: How to make a complete prediction model with Facebook Prophet?
+Nokia's future stock price development: How to make a complete prediction model with Facebook Prophet?
 
 How will the stock price develop in the coming weeks or months? Can seasonal fluctuations be seen in the share price development? When is the closing price at the maximum level based on historical data? What is the closing price in 100 days?
 
