@@ -1,4 +1,4 @@
-# FacebookProphet
+# Facebook Prophet
 
 Nokia's future stock price development: How to make a complete prediction model with Facebook Prophet?
 
